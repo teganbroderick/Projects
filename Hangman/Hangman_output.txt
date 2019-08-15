@@ -1,0 +1,244 @@
+Script started on Thu Aug 15 13:49:12 2019
+[?1034hbash-3.2$ python3 /Users/teganbroderick/Documents/Coding/Hangman/hangman.py 
+Welcome to Hangman!
+________
+|      |
+|      
+|      
+|      
+|_________
+
+Word:  ___________
+
+Guess your letter: a
+Word: __A______A_
+
+Guess your letter: e
+Letter not found!
+________
+|      |
+|      o
+|         
+|         
+|_________
+Word: __A______A_
+
+Guess your letter: i
+Word: __A_I_I__A_
+
+Guess your letter: o
+Word: __A_I_IO_A_
+
+Guess your letter: n
+Word: __A_I_IONA_
+
+Guess your letter: l
+Word: __A_I_IONAL
+
+Guess your letter: t
+Word: T_A_ITIONAL
+
+Guess your letter: r
+Word: TRA_ITIONAL
+
+Guess your letter: d
+Word: TRADITIONAL
+
+You won!
+Do you want to play again? yes or no: yes
+
+Welcome to Hangman!
+________
+|      |
+|      
+|      
+|      
+|_________
+
+Word:  ______________
+
+Guess your letter: f a
+Word: __A___________
+
+Guess your letter: o
+Word: __A__O__O_____
+
+Guess your letter: e
+Letter not found!
+________
+|      |
+|      o
+|         
+|         
+|_________
+Word: __A__O__O_____
+
+Guess your letter: i
+Word: __A_IO__O_I___
+
+Guess your letter: u
+Letter not found!
+________
+|      |
+|      o
+|      |
+|         
+|_________
+Word: __A_IO__O_I___
+
+Guess your letter: d
+Letter not found!
+________
+|      |
+|      o
+|     /|
+|         
+|_________
+Word: __A_IO__O_I___
+
+Guess your letter: t
+Word: __A_IO__O_I_T_
+
+Guess your letter: r
+Word: _RA_IO__O_I_T_
+
+Guess your letter: g
+Letter not found!
+________
+|      |
+|      o
+|     /|\
+|         
+|_________
+Word: _RA_IO__O_I_T_
+
+Guess your letter: d
+You already guessed that letter. Try again.
+Guess your letter: y
+Letter not found!
+________
+|      |
+|      o
+|     /|\
+|     /   
+|_________
+Word: _RA_IO__O_I_T_
+
+Guess your letter: n
+Word: _RANIO__O_I_T_
+
+Guess your letter: g
+You already guessed that letter. Try again.
+Guess your letter: f
+Letter not found!
+________
+|      |
+|      o
+|     /|\
+|     / \
+|_________
+
+You lose!!! The correct word was CRANIOSCOPISTS
+Word: _RANIO__O_I_T_
+
+Do you want to play again? yes or no: yes
+
+Welcome to Hangman!
+________
+|      |
+|      
+|      
+|      
+|_________
+
+Word:  _____________
+
+Guess your letter: a
+Word: ________A____
+
+Guess your letter: e
+Word: _EE_____A____
+
+Guess your letter: i
+Word: _EE_____A_I__
+
+Guess your letter: n
+Word: _EE_____A_I_N
+
+Guess your letter: o
+Word: _EE__O__A_ION
+
+Guess your letter: t
+Word: _EE__O_TATION
+
+Guess your letter: d
+Letter not found!
+________
+|      |
+|      o
+|         
+|         
+|_________
+Word: _EE__O_TATION
+
+Guess your letter: g
+Letter not found!
+________
+|      |
+|      o
+|      |
+|         
+|_________
+Word: _EE__O_TATION
+
+Guess your letter: h
+Letter not found!
+________
+|      |
+|      o
+|     /|
+|         
+|_________
+Word: _EE__O_TATION
+
+Guess your letter: l
+Letter not found!
+________
+|      |
+|      o
+|     /|\
+|         
+|_________
+Word: _EE__O_TATION
+
+Guess your letter: m
+Letter not found!
+________
+|      |
+|      o
+|     /|\
+|     /   
+|_________
+Word: _EE__O_TATION
+
+Guess your letter: p
+Word: _EE_PO_TATION
+
+Guess your letter: s
+Letter not found!
+________
+|      |
+|      o
+|     /|\
+|     / \
+|_________
+
+You lose!!! The correct word was REEXPORTATION
+Word: _EE_PO_TATION
+
+Do you want to play again? yes or no: no
+
+bash-3.2$ exit
+exit
+
+Script done on Thu Aug 15 13:52:53 2019
