@@ -1,0 +1,290 @@
+Script started on Thu Aug 15 13:31:19 2019
+[?1034hbash-3.2$ python3 /Users/teganbroderick/Documents/Coding/Tic\ Tac\ Toe/TicTacToe .py 
+Welcome to Tic Tac Toe. Player one is 'X', and player two is 'O'. To play, specify your desired position using the format 'row, column'.
+
+Here is an example board showing positions: 
+  --- --- ---
+ |1,1|1,2|1,3|
+  --- --- ---
+ |2,1|2,2|2,3|
+  --- --- ---
+ |3,1|3,2|3,3|
+  --- --- ---
+
+Gameboard:
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+
+Player 1, where would you like to place your piece? 1,1
+
+Gameboard:
+  --- --- ---
+ | X |   |   |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+
+Player 2, where would you like to place your piece? 1,3
+
+Gameboard:
+  --- --- ---
+ | X |   | O |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+
+Player 1, where would you like to place your piece? 2,2
+
+Gameboard:
+  --- --- ---
+ | X |   | O |
+  --- --- ---
+ |   | X |   |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+
+Player 2, where would you like to place your piece? 2,3
+
+Gameboard:
+  --- --- ---
+ | X |   | O |
+  --- --- ---
+ |   | X | O |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+
+Player 1, where would you like to place your piece? 3,3
+
+Gameboard:
+  --- --- ---
+ | X |   | O |
+  --- --- ---
+ |   | X | O |
+  --- --- ---
+ |   |   | X |
+  --- --- ---
+
+Player 1 wins!
+Player 1 wins!
+------------------------------------------------------------
+Would you like to play again? yes or no: yes
+
+Gameboard:
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+
+Player 1, where would you like to place your piece? 1,1
+
+Gameboard:
+  --- --- ---
+ | X |   |   |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+
+Player 2, where would you like to place your piece? 3,3
+
+Gameboard:
+  --- --- ---
+ | X |   |   |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+ |   |   | O |
+  --- --- ---
+
+Player 1, where would you like to place your piece? 1,3
+
+Gameboard:
+  --- --- ---
+ | X |   | X |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+ |   |   | O |
+  --- --- ---
+
+Player 2, where would you like to place your piece? 1,2
+
+Gameboard:
+  --- --- ---
+ | X | O | X |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+ |   |   | O |
+  --- --- ---
+
+Player 1, where would you like to place your piece? 1.2
+That's not a valid position.
+Player 1, where would you like to place your piece? 2,1
+
+Gameboard:
+  --- --- ---
+ | X | O | X |
+  --- --- ---
+ | X |   |   |
+  --- --- ---
+ |   |   | O |
+  --- --- ---
+
+
+
+Player 2, where would you like to place your piece? 3,1
+
+Gameboard:
+  --- --- ---
+ | X | O | X |
+  --- --- ---
+ | X |   |   |
+  --- --- ---
+ | O |   | O |
+  --- --- ---
+
+
+
+Player 1, where would you like to place your piece? 3,2
+
+Gameboard:
+  --- --- ---
+ | X | O | X |
+  --- --- ---
+ | X |   |   |
+  --- --- ---
+ | O | X | O |
+  --- --- ---
+
+
+
+Player 2, where would you like to place your piece? 2,2
+
+Gameboard:
+  --- --- ---
+ | X | O | X |
+  --- --- ---
+ | X | O |   |
+  --- --- ---
+ | O | X | O |
+  --- --- ---
+
+
+
+Player 1, where would you like to place your piece? 2,3
+
+Gameboard:
+  --- --- ---
+ | X | O | X |
+  --- --- ---
+ | X | O | X |
+  --- --- ---
+ | O | X | O |
+  --- --- ---
+
+You are out of spaces. The game is a tie.
+You are out of spaces. The game is a tie.
+------------------------------------------------------------
+Would you like to play again? yes or no: yes
+
+Gameboard:
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+
+Player 1, where would you like to place your piece? 2,2
+
+Gameboard:
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+ |   | X |   |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+
+Player 2, where would you like to place your piece? 1,1
+
+Gameboard:
+  --- --- ---
+ | O |   |   |
+  --- --- ---
+ |   | X |   |
+  --- --- ---
+ |   |   |   |
+  --- --- ---
+
+Player 1, where would you like to place your piece? 3,2
+
+Gameboard:
+  --- --- ---
+ | O |   |   |
+  --- --- ---
+ |   | X |   |
+  --- --- ---
+ |   | X |   |
+  --- --- ---
+
+Player 2, where would you like to place your piece? 1,2
+
+Gameboard:
+  --- --- ---
+ | O | O |   |
+  --- --- ---
+ |   | X |   |
+  --- --- ---
+ |   | X |   |
+  --- --- ---
+
+Player 1, where would you like to place your piece? 3,3
+
+Gameboard:
+  --- --- ---
+ | O | O |   |
+  --- --- ---
+ |   | X |   |
+  --- --- ---
+ |   | X | X |
+  --- --- ---
+
+
+
+Player 2, where would you like to place your piece? 1,3
+
+Gameboard:
+  --- --- ---
+ | O | O | O |
+  --- --- ---
+ |   | X |   |
+  --- --- ---
+ |   | X | X |
+  --- --- ---
+
+Player 2 wins!
+Player 2 wins!
+------------------------------------------------------------
+Would you like to play again? yes or no: no
+bash-3.2$ exit
+exit
+
+Script done on Thu Aug 15 13:32:48 2019
